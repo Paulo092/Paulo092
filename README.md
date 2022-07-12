@@ -2,7 +2,7 @@
     <img src="./files/mei.png" width="150">
 </p>
 
-<h1 align="center">Alô &ltdev/&gt <img src="./files/mao-acenando.gif" width="35px">, Paulo Aqui! 😊</h1>
+<h1 align="center"><img src="./files/mao-acenando.gif" width="35px"> Alô &ltdev/&gt, Paulo Aqui! 😊</h1>
 
 ### ℹ️ Sobre Mim
 Sou estudante de ciência da computação e gosto muito de desenvolvimento web e de games, trabalho tanto com a parte funcional (backend) quanto com a parte estética (frontend) de meus projetos, quando tenho algum problema no meu dia-a-dia tento resolver desenvolvendo um pequeno aplicativo e aproveito pra aprender alguma tecnologia que eu ainda não conhecia.
@@ -37,7 +37,7 @@ Sou estudante de ciência da computação e gosto muito de desenvolvimento web e
 Se estiver com pressa💨, talvez possa te ajudar! Alguns atalhos úteis:
 
 <p align="center">
-    <a href="https://github.com/Paulo092?tab=repositories"><img align="center" src="./files/repo-card.png"/></a>
+    <a href="https://github.com/Paulo092?tab=repositories&q=&type=public&language=&sort="><img align="center" src="./files/repo-card.png"/></a>
     <br />
     <br />
     <a href="https://github.com/Paulo092/comp-sci-algorithms"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo092&repo=comp-sci-algorithms&theme=omni"/></a>
