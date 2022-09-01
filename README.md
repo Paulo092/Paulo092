@@ -37,18 +37,16 @@ Sou estudante de ciência da computação e gosto muito de desenvolvimento web e
 Se estiver com pressa💨, talvez possa te ajudar! Alguns atalhos úteis:
 
 <p align="center">
-    <a href="https://github.com/Paulo092?tab=repositories&q=&type=public&language=&sort="><img align="center" src="./files/repo-card.png"/></a>
-    <br />
-    <br />
-    <a href="https://github.com/Paulo092/comp-sci-algorithms"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo092&repo=comp-sci-algorithms&theme=omni"/></a>
+    <a href="https://github.com/Paulo092?tab=repositories&q=&type=public&language=&sort="><img align="center" width="40%" src="./files/repo-card.png"/></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Paulo092/comp-sci-algorithms"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo092&repo=comp-sci-algorithms&theme=omni"/></a>
 </p>
 
 ## 📊 Minhas Estatísticas
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Paulo092&count_private=true&show_icons=true&theme=omni#gh-dark-mode-only" />
-    <br />
-    <br />
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Paulo092&theme=omni#gh-dark-mode-only"/>
+    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=Paulo092&count_private=true&show_icons=true&theme=omni#gh-dark-mode-only" />
+    &nbsp;&nbsp;
+    <img align="center" width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=Paulo092&theme=omni#gh-dark-mode-only"/>
     <br />
     <br />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=omni#gh-dark-mode-only"/>
