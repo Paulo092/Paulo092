@@ -7,7 +7,15 @@
 ### ℹ️ Sobre Mim
 Sou estudante de ciência da computação e gosto muito de desenvolvimento web e de games, trabalho tanto com a parte funcional (backend) quanto com a parte estética (frontend) de meus projetos, quando tenho algum problema no meu dia-a-dia tento resolver desenvolvendo um pequeno aplicativo e aproveito pra aprender alguma tecnologia que eu ainda não conhecia.
 
-<ul>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,mysql,js,nodejs,react,c,cs,unity,py,java,figma,ps" />
+  </a>
+</p>
+
+<details>
+    <summary>⚡ Mais Detalhes</summary>
+    <ul>
     <li>🌱 Atualmente estou me aprofundando em:</li>
     <ul>
         <li>
@@ -31,6 +39,8 @@ Sou estudante de ciência da computação e gosto muito de desenvolvimento web e
         📫 Vamos nos conectar!: <a href="https://paulo-sergio.carrd.co/">🎴 Cartão de Visitas</a>.
     </li>
 </ul>
+
+</details>
 
 ## 🔗 Atalhos
 
