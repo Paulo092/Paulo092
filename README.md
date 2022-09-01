@@ -34,7 +34,9 @@ Sou estudante de ciência da computação e gosto muito de desenvolvimento web e
 
 ## 🔗 Atalhos
 
-Se estiver com pressa💨, talvez possa te ajudar! Alguns atalhos úteis:
+<p align="center">
+    Se estiver com pressa💨, talvez possa te ajudar! Alguns atalhos úteis:
+</p>
 
 <p align="center">
     <a href="https://github.com/Paulo092?tab=repositories&q=&type=public&language=&sort="><img align="center" width="40%" src="./files/repo-card.png"/></a>
